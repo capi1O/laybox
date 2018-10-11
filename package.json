@@ -1,0 +1,26 @@
+{
+  "name": "laybox",
+  "version": "0.0.1",
+  "description": "CSS layout framework based on flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeydri/laybox.git"
+  },
+  "keywords": [
+    "CSS",
+    "layout",
+    "flexbox",
+    "SASS",
+    "SCSS"
+  ],
+  "author": "monkeydri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkeydri/laybox/issues"
+  },
+  "homepage": "https://github.com/monkeydri/laybox#readme"
+}
